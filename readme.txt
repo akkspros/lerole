@@ -7,7 +7,7 @@ Stable tag: 1.0.3
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple theme
+A simple WordPress theme
 
 == Description ==
 
